@@ -1,0 +1,49 @@
+schema_version: 1
+repository:
+  name: kaggriculture-research
+  url: https://github.com/openkaggle/kaggriculture-research
+snapshot:
+  kind: public-frozen-snapshot
+  status: frozen_no_submit
+  status_note: >-
+    Frozen research and evaluator snapshot. Publication does not authorize an
+    upload, active-slot change, or new remote run.
+  rules_checked_at: null
+  rules_check_note: >-
+    The root README does not record a rules-check date. Historical campaign
+    documents must not be presented as a current verification.
+competitions:
+  - name: Kaggriculture
+    url: null
+included:
+  - original agents, builders, and verifiers
+  - evaluation and arena source
+  - research notes, campaign charter, and lightweight receipts
+excluded:
+  - raw or downloaded competition data
+  - generated agents, builds, and packaged archives
+  - remote replay output and remote caches
+  - replay-derived actions.json and tapes.json fixtures
+  - third-party notebooks, kernels, and copied metadata
+  - submission files, credentials, and environments
+licensing:
+  original_work: MIT
+  boundary: >-
+    MIT covers only original OpenKaggle code and documentation for which
+    contributors hold rights.
+  third_party: >-
+    Third-party notebooks and kernels are linked at their original source, not
+    mirrored. Official environment code and separately licensed retained
+    subtrees retain their own terms. The agents/last_mile_harvest subtree
+    carries Apache-2.0 notices.
+reproduction:
+  guide: REPRODUCIBILITY.md
+  documented_entry_points:
+    - CAMPAIGN_CHARTER_v1.0.md
+    - arena/run_league.py
+    - build_submission.py
+    - verify_submission.py
+claims:
+  submission_authorized: false
+  current_final_ready: false
+  score_claim_added_by_release_docs: false

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: >-
+  If this archive supports your work, cite it as software and review NOTICE.md
+  for competition and third-party licensing boundaries.
+title: Kaggriculture Frozen Research Snapshot
+type: software
+authors:
+  - name: OpenKaggle contributors
+repository-code: https://github.com/openkaggle/kaggriculture-research
+license: MIT
+abstract: >-
+  Frozen no-submit snapshot of Kaggriculture agents, builders, evaluators,
+  research notes, and lightweight campaign records.
