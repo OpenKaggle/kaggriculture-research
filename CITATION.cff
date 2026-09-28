@@ -5,7 +5,7 @@ message: >-
 title: Kaggriculture Frozen Research Snapshot
 type: software
 authors:
-  - name: OpenKaggle contributors
+  - name: Jah-yee
 repository-code: https://github.com/openkaggle/kaggriculture-research
 url: https://github.com/OpenKaggle/kaggriculture-research/tree/snapshot-2026-09
 license: MIT
