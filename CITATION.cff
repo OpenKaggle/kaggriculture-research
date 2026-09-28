@@ -7,7 +7,14 @@ type: software
 authors:
   - name: OpenKaggle contributors
 repository-code: https://github.com/openkaggle/kaggriculture-research
+url: https://github.com/OpenKaggle/kaggriculture-research/tree/snapshot-2026-09
 license: MIT
+version: snapshot-2026-09
+date-released: 2026-09-28
 abstract: >-
   Frozen no-submit snapshot of Kaggriculture agents, builders, evaluators,
   research notes, and lightweight campaign records.
+keywords:
+  - Kaggle
+  - agents
+  - reproducibility
