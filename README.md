@@ -2,6 +2,8 @@
 
 > **Status: Ended — final closeout 2026-10-15 (q5 1236.1 / hybrid 1065.3, public rank 3177/10148); read-only monitoring retained.**
 
+**Publication gate: 2026-09-30T23:59Z** (= kaggriculture submission end; already elapsed — repo is public-eligible; visibility decision is separate)
+
 An OpenKaggle research workbench for reading, testing, and discussing
 competition-agent methods. It keeps the parts of the work that can be shared
 and reviewed—original source, evaluators, build tools, and research notes—while
